@@ -1,6 +1,9 @@
 # trump-talk
 A collection of remarks made by Donald Trump.
 
+- Oct 8, 2016: Donald Trump’s Taped Comments About Women
+  - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/hot-mic-comments-about-women.txt)
+  - [source](https://www.nytimes.com/2016/10/08/us/donald-trump-tape-transcript.html?_r=0)
 - Jan 20, 2017: Inauguration speech transcript
   - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/trump-inauguration-speech-jan-2017.txt)
   - [source](http://www.politico.com/story/2017/01/full-text-donald-trump-inauguration-speech-transcript-233907)
