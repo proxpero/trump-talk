@@ -1,10 +1,10 @@
 # trump-talk
 A collection of remarks made by Donald Trump.
 
-- Jan 20, 2017: 2017 Donald Trump inauguration speech transcript
+- Jan 20, 2017: Inauguration speech transcript
   - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/trump-inauguration-speech-jan-2017.txt)
   - [source](http://www.politico.com/story/2017/01/full-text-donald-trump-inauguration-speech-transcript-233907)
-- Jan 23, 2017: Trump CIA speech transcript
+- Jan 23, 2017: CIA speech transcript
   - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/cia-jan-2017.txt)
   - [source](http://www.cbsnews.com/news/trump-cia-speech-transcript/)
 - Feb 1, 2017: A Full Transcript Of Donald Trump's Black History Month Remarks
