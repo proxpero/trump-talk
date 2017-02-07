@@ -16,3 +16,6 @@ A collection of remarks made by Donald Trump.
 - Feb 2, 2017: Donald Trump gave a doozy of a speech at the National Prayer Breakfast
   - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/prayer-breakfast-feb-2017.txt)
   - [source](https://www.washingtonpost.com/pb/news/the-fix/wp/2017/02/02/donald-trump-gave-a-doozy-of-a-speech-at-the-national-prayer-breakfast)
+- Feb 6, 2017: President Trump's Speech Claiming the Press Doesn't Report Terror Attacks
+  - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-6-macdill-air-force-base.txt)
+  - [source](http://time.com/4661658/donald-trump-terror-attacks-speech-macdill-air-force-base/)
