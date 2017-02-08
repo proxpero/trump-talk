@@ -22,3 +22,6 @@ A collection of remarks made by Donald Trump.
 - Feb 6, 2017: President Trump's Speech Claiming the Press Doesn't Report Terror Attacks
   - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-6-macdill-air-force-base.txt)
   - [source](http://time.com/4661658/donald-trump-terror-attacks-speech-macdill-air-force-base/)
+- Feb 7, 2017: Remarks by President Trump in Roundtable with County Sheriffs
+  - [text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-7-roundtable-with-county-sheriffs.txt)
+  - [source](https://www.whitehouse.gov/the-press-office/2017/02/07/remarks-president-trump-roundtable-county-sheriffs)
