@@ -1,57 +1,57 @@
 [
-		{
-			"title": "Donald Trump’s Access Hollywood Interview with Billy Bush",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2016-10-8-access-hollywood.txt",
-			"source": "https://www.nytimes.com/2016/10/08/us/donald-trump-tape-transcript.html?_r=0"
-		},
-		{
-			"title": "Inauguration Speech",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-1-20-trump-inauguration-speech.txt",
-			"source": "http://www.politico.com/story/2017/01/full-text-donald-trump-inauguration-speech-transcript-233907"
-		},
-		{
-			"title": "CIA speech transcript",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-1-23-cia-jan.txt",
-			"source": "http://www.cbsnews.com/news/trump-cia-speech-transcript/"
-		},
-		{
-			"title": "Donald Trump's Black History Month Remarks",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-1-black-history-month.txt",
-			"source": "http://theconcourse.deadspin.com/a-full-transcript-of-donald-trumps-black-history-month-1791871370"
-		},
-		{
-			"title": "Speech at the National Prayer Breakfast",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-2-prayer-breakfast.txt",
-			"source": "https://www.washingtonpost.com/pb/news/the-fix/wp/2017/02/02/donald-trump-gave-a-doozy-of-a-speech-at-the-national-prayer-breakfast"
-		},
-		{
-			"title": "Donald Trump Super Bowl interview",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-5-superbowl-interview-with-bill-oreilly.txt",
-			"source": "http://www.sbnation.com/2017/2/5/14516156/donald-trump-interview-transcript-bill-oreilly-super-bowl-2017"
-		},
-		{
-			"title": "Terror Attacks Speech at Macdill AFB",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-6-macdill-air-force-base.txt",
-			"source": "http://time.com/4661658/donald-trump-terror-attacks-speech-macdill-air-force-base/"
-		},
-		{
-			"title": "Roundtable with County Sheriffs",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-7-roundtable-with-county-sheriffs.txt",
-			"source": "https://www.whitehouse.gov/the-press-office/2017/02/07/remarks-president-trump-roundtable-county-sheriffs"
-		},
-		{
-			"title": "Rally in Melbourne, Florida",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-18-rally-in-melbourne-florida.txt",
-			"source": "http://www.vox.com/2017/2/18/14659952/trump-transcript-rally-melbourne-florida"
-		},
-		{
-			"title": "Speech to CPAC",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-24-cpac.txt",
-			"source": "http://time.com/4682023/cpac-donald-trump-speech-transcript/"
-		},
-		{
-			"title": "Address to a Joint Session of Congress",
-			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-28-address-to-joint-congress.txt",
-			"source": "http://www.sfgate.com/politics/article/FULL-Transcript-President-Donald-Trump-speech-17-10967127.php"
-		}
-	]
+  {
+    "title": "Donald Trump’s Access Hollywood Interview with Billy Bush",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2016-10-8-access-hollywood.txt",
+    "source": "https://www.nytimes.com/2016/10/08/us/donald-trump-tape-transcript.html?_r=0"
+  },
+  {
+    "title": "Inauguration Speech",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-1-20-trump-inauguration-speech.txt",
+    "source": "http://www.politico.com/story/2017/01/full-text-donald-trump-inauguration-speech-transcript-233907"
+  },
+  {
+    "title": "CIA speech transcript",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-1-23-cia-jan.txt",
+    "source": "http://www.cbsnews.com/news/trump-cia-speech-transcript/"
+  },
+  {
+    "title": "Donald Trump's Black History Month Remarks",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-1-black-history-month.txt",
+    "source": "http://theconcourse.deadspin.com/a-full-transcript-of-donald-trumps-black-history-month-1791871370"
+  },
+  {
+    "title": "Speech at the National Prayer Breakfast",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-2-prayer-breakfast.txt",
+    "source": "https://www.washingtonpost.com/pb/news/the-fix/wp/2017/02/02/donald-trump-gave-a-doozy-of-a-speech-at-the-national-prayer-breakfast"
+  },
+  {
+    "title": "Donald Trump Super Bowl interview",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-5-superbowl-interview-with-bill-oreilly.txt",
+    "source": "http://www.sbnation.com/2017/2/5/14516156/donald-trump-interview-transcript-bill-oreilly-super-bowl-2017"
+  },
+  {
+    "title": "Terror Attacks Speech at Macdill AFB",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-6-macdill-air-force-base.txt",
+    "source": "http://time.com/4661658/donald-trump-terror-attacks-speech-macdill-air-force-base/"
+  },
+  {
+    "title": "Roundtable with County Sheriffs",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-7-roundtable-with-county-sheriffs.txt",
+    "source": "https://www.whitehouse.gov/the-press-office/2017/02/07/remarks-president-trump-roundtable-county-sheriffs"
+  },
+  {
+    "title": "Rally in Melbourne, Florida",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-18-rally-in-melbourne-florida.txt",
+    "source": "http://www.vox.com/2017/2/18/14659952/trump-transcript-rally-melbourne-florida"
+  },
+  {
+    "title": "Speech to CPAC",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-24-cpac.txt",
+    "source": "http://time.com/4682023/cpac-donald-trump-speech-transcript/"
+  },
+  {
+    "title": "Address to a Joint Session of Congress",
+    "raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2017-2-28-address-to-joint-congress.txt",
+    "source": "http://www.sfgate.com/politics/article/FULL-Transcript-President-Donald-Trump-speech-17-10967127.php"
+  }
+]
