@@ -25,3 +25,6 @@ A collection of remarks made by Donald Trump.
 - Feb 7, 2017: Remarks by President Trump in Roundtable with County Sheriffs
   - [raw text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-7-roundtable-with-county-sheriffs.txt)
   - [source](https://www.whitehouse.gov/the-press-office/2017/02/07/remarks-president-trump-roundtable-county-sheriffs)
+- Feb 28, 2017: Address to a Joint Session of Congress
+  - [raw text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-28-address-to-joint-congress.txt)
+  - [source](http://www.sfgate.com/politics/article/FULL-Transcript-President-Donald-Trump-speech-17-10967127.php)
