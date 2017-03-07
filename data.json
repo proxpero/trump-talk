@@ -1,5 +1,4 @@
-{
-	"speeches": [
+[
 		{
 			"title": "Donald Trump’s Access Hollywood Interview with Billy Bush",
 			"raw": "https://raw.githubusercontent.com/proxpero/trump-talk/master/speeches/2016-10-8-access-hollywood.txt",
@@ -56,4 +55,3 @@
 			"source": "http://www.sfgate.com/politics/article/FULL-Transcript-President-Donald-Trump-speech-17-10967127.php"
 		}
 	]
-}
