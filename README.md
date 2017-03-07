@@ -25,6 +25,9 @@ A collection of remarks made by Donald Trump.
 - Feb 7, 2017: Remarks by President Trump in Roundtable with County Sheriffs
   - [raw text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-7-roundtable-with-county-sheriffs.txt)
   - [source](https://www.whitehouse.gov/the-press-office/2017/02/07/remarks-president-trump-roundtable-county-sheriffs)
+- Feb 18, 2017: Rally in Melbourne, Florida
+  - [raw text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-18-rally-in-melbourne-florida.txt)
+  - [source](http://www.vox.com/2017/2/18/14659952/trump-transcript-rally-melbourne-florida)
 - Feb 24, 2017: Speech to CPAC
   - [raw text](https://raw.githubusercontent.com/proxpero/trump-talk/master/2017-2-24-cpac.txt)
   - [source](http://time.com/4682023/cpac-donald-trump-speech-transcript/)
